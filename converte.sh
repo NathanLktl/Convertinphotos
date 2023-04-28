@@ -1,0 +1,41 @@
+convert -density 150 -quality 90 foto2.pdf foto2.jpg
+convert -density 150 -quality 90 foto3.pdf foto3.jpg
+convert -density 150 -quality 90 foto4.pdf foto4.jpg
+convert -density 150 -quality 90 foto5.pdf foto5.jpg
+convert -density 150 -quality 90 foto6.pdf foto6.jpg
+convert -density 150 -quality 90 foto6.pdf foto6.jpg
+convert -density 150 -quality 90 foto7.pdf foto7.jpg
+convert -density 150 -quality 90 foto8.pdf foto8.jpg
+convert -density 150 -quality 90 foto9.pdf foto9.jpg
+convert -density 150 -quality 90 foto10.pdf foto10.jpg
+convert -density 150 -quality 90 foto11.pdf foto11.jpg
+convert -density 150 -quality 90 foto12.pdf foto12.jpg
+convert -density 150 -quality 90 foto13.pdf foto13.jpg
+convert -density 150 -quality 90 foto14.pdf foto14.jpg
+convert -density 150 -quality 90 foto15.pdf foto15.jpg
+convert -density 150 -quality 90 foto16.pdf foto16.jpg
+convert -density 150 -quality 90 foto17.pdf foto17.jpg
+convert -density 150 -quality 90 foto18.pdf foto18.jpg
+convert -density 150 -quality 90 foto19.pdf foto19.jpg
+convert -density 150 -quality 90 foto20.pdf foto20.jpg
+convert -density 150 -quality 90 foto21.pdf foto21.jpg
+convert -density 150 -quality 90 foto22.pdf foto22.jpg
+convert -density 150 -quality 90 foto23.pdf foto23.jpg
+convert -density 150 -quality 90 foto24.pdf foto24.jpg
+convert -density 150 -quality 90 foto25.pdf foto25.jpg
+convert -density 150 -quality 90 foto26.pdf foto26.jpg
+convert -density 150 -quality 90 foto27.pdf foto27.jpg
+convert -density 150 -quality 90 foto28.pdf foto28.jpg
+convert -density 150 -quality 90 foto29.pdf foto29.jpg
+convert -density 150 -quality 90 foto30.pdf foto30.jpg
+convert -density 150 -quality 90 foto31.pdf foto31.jpg
+convert -density 150 -quality 90 foto32.pdf foto32.jpg
+convert -density 150 -quality 90 foto33.pdf foto33.jpg
+convert -density 150 -quality 90 foto34.pdf foto34.jpg
+convert -density 150 -quality 90 foto35.pdf foto35.jpg
+convert -density 150 -quality 90 foto36.pdf foto36.jpg
+convert -density 150 -quality 90 foto37.pdf foto37.jpg
+convert -density 150 -quality 90 foto38.pdf foto38.jpg
+
+
+
