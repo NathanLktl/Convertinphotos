@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Lista de arquivos PDF a serem convertidos
-pdf_files=(foto2.pdf foto3.pdf foto4 ... foto38.pdf)
+pdf_files=(arquivo1.pdf arquivo2.pdf... arquivo10.pdf)
 
 # Loop para converter cada arquivo PDF em JPEG
 for pdf_file in "${pdf_files[@]}"
